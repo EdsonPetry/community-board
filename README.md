@@ -2,7 +2,7 @@
 
 Submitted by: **Edson Petry**
 
-This web app: **is a board of community food trucks!**
+This web app: **is a board of my top picks for SWE resources**
 
 Time spent: **2.5** hours spent in total
 
